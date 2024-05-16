@@ -8,4 +8,5 @@ cin>>a;
 cout<<"enter a number b";
 cin>>b;
 cout<<a+b;
+return o;
 }
